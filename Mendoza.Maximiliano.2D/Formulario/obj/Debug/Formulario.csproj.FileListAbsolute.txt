@@ -1,0 +1,13 @@
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\bin\Debug\Formulario.exe
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.exe
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.Formulario.resources
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\Mendoza.Maximiliano.2D\Formulario\obj\Debug\Formulario.csproj.CopyComplete
